@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @code-rick
-- 👀 I’m interested in skating and coding.
+- 👀 I’m interested in Robotics and Artificial Intelligence.
 - 🌱 I’m currently learning c++.
 - 📫 You can reach me @ instagram ha.seeb9364.
 
