@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @code-rick
-- 👀 I’m interested in Robotics and Artificial Intelligence.
-- 🌱 I’m currently learning c++.
+- 👋 Hi, I’m Md Haseeb
+- Backend developer on node.js and express.js
+- 👀Exploring AI/ML & Generative AI
 - 📫 You can reach me @ instagram ha.seeb9364.
 
 <!---
